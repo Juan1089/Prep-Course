@@ -1,0 +1,5 @@
+Variables: Una variable es una forma de almacenar el valor de algo para usar más tarde. 
+String: Las "strings" son bloques de texto.
+Funciones: Són objetos invocables.
+Declaraciones: Las declaraciones devuelven algo, retornan algo.
+Valores Booleanos: Estos nos van a indicar si algo es verdadero o falso.

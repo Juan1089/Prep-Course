@@ -1,0 +1,4 @@
+For: es un bucle con una sintaxis unica mas compleja que if.
+&&: evaluara ambas expresiones si son verdaderas, arrojara true. Si alguna es falsa, arrojara false.
+||: evaluara ambas expresiones si una de ellas es verdaderas, arrojara true. Si ambas son falsa, arrojara false.
+!: devolvera el valor booleno opuesto de lo que se le pasa.

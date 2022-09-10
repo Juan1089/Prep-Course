@@ -1,0 +1,1 @@
+Arreglo: contenedor de almacenamiento para colecciones de datos.
